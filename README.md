@@ -6,3 +6,6 @@
 - 📧 How to reach me: geleczkak26@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=react&show_icons=true)
+
+Languages and Tools:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KetrinZireael&theme=tokyonight)
